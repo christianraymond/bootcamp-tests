@@ -1,5 +1,5 @@
-/*var testCase = require('mocha').describe;
-var assert = require('chai').assert;*/
+// var useDescribeForMochaTest = require('mocha').describe;
+// var useAssertForChaiTest = require('chai').assert;
 
 describe('The greet function', function(){
 
