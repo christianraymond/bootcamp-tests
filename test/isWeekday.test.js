@@ -1,5 +1,5 @@
 describe('The isWeekday function', function(){
-  it('should return true when the stringParam does start with M,T,W,T,F', function(){
+  it('should return true when the stringParam does start with M,T,W,T', function(){
     assert.equal(true, isWeekday('Monday'));
   });
 });
