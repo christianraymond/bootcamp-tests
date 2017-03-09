@@ -15,4 +15,4 @@ function totalPhoneBill(phoneString){
   }
   return totalBill;
 };
-console.log(totalPhoneBill('call'));
+(totalPhoneBill('call'));
